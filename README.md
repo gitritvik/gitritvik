@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ritvik</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align= "right" width= "400px" alt = "Coding" src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmcxcmlqdHJ6MmF0MDcxNjc5cXd4enV6dGloejZzNXNpaDFhZmxvayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif" >
+<img align= "right" width= "300px" alt = "Coding" src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmcxcmlqdHJ6MmF0MDcxNjc5cXd4enV6dGloejZzNXNpaDFhZmxvayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif" >
 
 - 🌱 I’m currently learning **Frontend Devlopment**
 
