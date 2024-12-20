@@ -1,4 +1,4 @@
-![logo]([https://github.com/gitritvik/gitritvik/blob/main/GitHub%20banner%20.png.png](https://github.com/gitritvik/gitritvik/blob/main/Blue%20Futuristic%20Technology%20Linkedln%20Banner.png)
+![logo](https://github.com/gitritvik/gitritvik/blob/main/Blue%20Futuristic%20Technology%20Linkedln%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Ritvik</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
